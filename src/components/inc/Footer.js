@@ -6,7 +6,7 @@ function Footer() {
         <section className="section footer bg-dark text-white">
             <div className="container">
                 <div className="row">
-                    <div className="col-md-4">
+                    <div className="col-md-4" style={{textAlign:"center"}}>
                         <h6>Powered by:</h6>
                         <hr/>
                         <p className="text-white" style={{fontWeight:"bold"}}>
@@ -15,7 +15,7 @@ function Footer() {
                         Muhammad Faraz
                         </p>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-4" style={{textAlign:"center"}}>
                         <h6>Quick Links</h6>
                         <hr/>
                         <div><Link to="/">Home</Link></div>
@@ -23,7 +23,7 @@ function Footer() {
                         <div><Link to="/services">Services</Link></div>
                         <div><Link to="/contact">Contact</Link></div>
                     </div>
-                    <div className="col-md-4 ">
+                    <div className="col-md-4 " style={{textAlign:"center"}}>
                         <h6>Contact Information</h6>
                         <hr/>
                         {/* <div><p className="text-white mb-1">#Pakistan #Karachi.</p></div> */}
