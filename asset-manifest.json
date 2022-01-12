@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/vivlio-website/static/css/main.4c719d5f.chunk.css",
+    "main.js": "/vivlio-website/static/js/main.97a706a4.chunk.js",
+    "main.js.map": "/vivlio-website/static/js/main.97a706a4.chunk.js.map",
+    "runtime-main.js": "/vivlio-website/static/js/runtime-main.d6499964.js",
+    "runtime-main.js.map": "/vivlio-website/static/js/runtime-main.d6499964.js.map",
+    "static/css/2.818011ed.chunk.css": "/vivlio-website/static/css/2.818011ed.chunk.css",
+    "static/js/2.ed381b5d.chunk.js": "/vivlio-website/static/js/2.ed381b5d.chunk.js",
+    "static/js/2.ed381b5d.chunk.js.map": "/vivlio-website/static/js/2.ed381b5d.chunk.js.map",
+    "static/js/3.a41de7e9.chunk.js": "/vivlio-website/static/js/3.a41de7e9.chunk.js",
+    "static/js/3.a41de7e9.chunk.js.map": "/vivlio-website/static/js/3.a41de7e9.chunk.js.map",
+    "index.html": "/vivlio-website/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/vivlio-website/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.4c719d5f.chunk.css.map": "/vivlio-website/static/css/main.4c719d5f.chunk.css.map",
+    "static/js/2.ed381b5d.chunk.js.LICENSE.txt": "/vivlio-website/static/js/2.ed381b5d.chunk.js.LICENSE.txt",
+    "static/media/b11.89ffa6b6.jpg": "/vivlio-website/static/media/b11.89ffa6b6.jpg",
+    "static/media/b12.7d73e48e.jpg": "/vivlio-website/static/media/b12.7d73e48e.jpg",
+    "static/media/b13.cd465150.jpg": "/vivlio-website/static/media/b13.cd465150.jpg",
+    "static/media/d_book.c5d91f25.JPG": "/vivlio-website/static/media/d_book.c5d91f25.JPG",
+    "static/media/feed.002ece16.JPG": "/vivlio-website/static/media/feed.002ece16.JPG",
+    "static/media/flow.4b92ac74.JPG": "/vivlio-website/static/media/flow.4b92ac74.JPG",
+    "static/media/flow2.3e1d8023.JPG": "/vivlio-website/static/media/flow2.3e1d8023.JPG",
+    "static/media/login.d0b78ee2.JPG": "/vivlio-website/static/media/login.d0b78ee2.JPG",
+    "static/media/otp.2d68fae1.JPG": "/vivlio-website/static/media/otp.2d68fae1.JPG",
+    "static/media/otp_screen.bce26fd8.JPG": "/vivlio-website/static/media/otp_screen.bce26fd8.JPG",
+    "static/media/reg.e08e2f0c.JPG": "/vivlio-website/static/media/reg.e08e2f0c.JPG",
+    "static/media/req_noti.287f8fe1.JPG": "/vivlio-website/static/media/req_noti.287f8fe1.JPG",
+    "static/media/sidebar.bed927a1.JPG": "/vivlio-website/static/media/sidebar.bed927a1.JPG",
+    "static/media/u_profile.884682ca.JPG": "/vivlio-website/static/media/u_profile.884682ca.JPG",
+    "static/media/wishlist.a59ecc6d.JPG": "/vivlio-website/static/media/wishlist.a59ecc6d.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6499964.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.ed381b5d.chunk.js",
+    "static/css/main.4c719d5f.chunk.css",
+    "static/js/main.97a706a4.chunk.js"
+  ]
+}
