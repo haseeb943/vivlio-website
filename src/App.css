@@ -1,0 +1,39 @@
+p {
+  font-size: 14px;
+  color: #262626;
+}
+.section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-heading {
+  color: brown;
+  font-size: 26px;
+}
+
+.underline {
+  height: 04px;
+  width: 10rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none !important;
+}
+
+.footer a:hover {
+  color:gray
+}
+
+.menu_active {
+  font-weight: bold;
+  border-bottom: 1px solid #fff;
+}
+
+.navbar a:hover{
+  color: #3498db !important;
+}
